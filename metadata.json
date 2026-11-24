@@ -1,0 +1,6 @@
+{
+  "name": "AI Lexicon",
+  "description": "Understand AI. One term at a time. An AI-powered technical dictionary by KishorPulagam with 60 offline terms, Gemini Flash explanations, and a complete native Android Kotlin project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

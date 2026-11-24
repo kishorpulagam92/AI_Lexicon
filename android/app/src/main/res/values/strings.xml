@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AI Lexicon</string>
+    <string name="app_tagline">Understand AI. One term at a time.</string>
+    <string name="app_author">by KishorPulagam</string>
+</resources>
